@@ -1,0 +1,14 @@
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\EmployeePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\EmployeePOO.AssemblyInfoInputs.cache
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\EmployeePOO.AssemblyInfo.cs
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\EmployeePOO.csproj.CoreCompileInputs.cache
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\bin\Debug\net8.0\EmployeePOO.exe
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\bin\Debug\net8.0\EmployeePOO.deps.json
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\bin\Debug\net8.0\EmployeePOO.runtimeconfig.json
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\bin\Debug\net8.0\EmployeePOO.dll
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\bin\Debug\net8.0\EmployeePOO.pdb
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\EmployeePOO.dll
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\refint\EmployeePOO.dll
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\EmployeePOO.pdb
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\EmployeePOO.genruntimeconfig.cache
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\ref\EmployeePOO.dll

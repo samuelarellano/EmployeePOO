@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\interfaces\\iexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\interfaces\\iexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F062162-11DD-4EDD-B639-36785C7D255D}|EmployeePOO.Test\\EmployeePOO.Test.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo.test\\employeecrudtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F062162-11DD-4EDD-B639-36785C7D255D}|EmployeePOO.Test\\EmployeePOO.Test.csproj|solutionrelative:employeepoo.test\\employeecrudtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\validator\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\validator\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\implementation\\employeecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\implementation\\employeecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F062162-11DD-4EDD-B639-36785C7D255D}|EmployeePOO.Test\\EmployeePOO.Test.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F062162-11DD-4EDD-B639-36785C7D255D}|EmployeePOO.Test\\EmployeePOO.Test.csproj|solutionrelative:employeepoo.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\employeeoverride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\employeeoverride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\enumerators\\employeetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\enumerators\\employeetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IExample.cs",
+              "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Interfaces\\IExample.cs",
+              "RelativeDocumentMoniker": "EmployeePOO\\Interfaces\\IExample.cs",
+              "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Interfaces\\IExample.cs",
+              "RelativeToolTip": "EmployeePOO\\Interfaces\\IExample.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:15:26.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Validator\\EmployeeValidator.cs",
+              "RelativeDocumentMoniker": "EmployeePOO\\Validator\\EmployeeValidator.cs",
+              "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Validator\\EmployeeValidator.cs",
+              "RelativeToolTip": "EmployeePOO\\Validator\\EmployeeValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:55:53.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeCRUDTest.cs",
+              "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO.Test\\EmployeeCRUDTest.cs",
+              "RelativeDocumentMoniker": "EmployeePOO.Test\\EmployeeCRUDTest.cs",
+              "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO.Test\\EmployeeCRUDTest.cs",
+              "RelativeToolTip": "EmployeePOO.Test\\EmployeeCRUDTest.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:43:43.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EmployeePOO.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO.Test\\UnitTest1.cs",
+              "RelativeToolTip": "EmployeePOO.Test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:40:03.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeOverride.cs",
+              "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\EmployeeOverride.cs",
+              "RelativeDocumentMoniker": "EmployeePOO\\EmployeeOverride.cs",
+              "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\EmployeeOverride.cs",
+              "RelativeToolTip": "EmployeePOO\\EmployeeOverride.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:11:46.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Implementation\\EmployeeCRUD.cs",
+              "RelativeDocumentMoniker": "EmployeePOO\\Implementation\\EmployeeCRUD.cs",
+              "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Implementation\\EmployeeCRUD.cs",
+              "RelativeToolTip": "EmployeePOO\\Implementation\\EmployeeCRUD.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvx0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:39:48.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeTypes.cs",
+              "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Enumerators\\EmployeeTypes.cs",
+              "RelativeDocumentMoniker": "EmployeePOO\\Enumerators\\EmployeeTypes.cs",
+              "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Enumerators\\EmployeeTypes.cs",
+              "RelativeToolTip": "EmployeePOO\\Enumerators\\EmployeeTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:37:42.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Interfaces\\IEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeePOO\\Interfaces\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Interfaces\\IEmployee.cs",
+              "RelativeToolTip": "EmployeePOO\\Interfaces\\IEmployee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:35:10.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeePOO\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeePOO\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:34:03.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeePOO\\Program.cs",
+              "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Program.cs",
+              "RelativeToolTip": "EmployeePOO\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAewBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:32:49.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
