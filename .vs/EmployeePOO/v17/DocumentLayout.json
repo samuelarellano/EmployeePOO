@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\interfaces\\iexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\interfaces\\iexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\implementation\\employeecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\implementation\\employeecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F062162-11DD-4EDD-B639-36785C7D255D}|EmployeePOO.Test\\EmployeePOO.Test.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo.test\\employeecrudtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F062162-11DD-4EDD-B639-36785C7D255D}|EmployeePOO.Test\\EmployeePOO.Test.csproj|solutionrelative:employeepoo.test\\employeecrudtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\validator\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\validator\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\interfaces\\iexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\interfaces\\iexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\implementation\\employeecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\implementation\\employeecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\validator\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\validator\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F062162-11DD-4EDD-B639-36785C7D255D}|EmployeePOO.Test\\EmployeePOO.Test.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,14 +39,6 @@
       "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\employeeoverride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|c:\\users\\sarellano\\source\\repos\\employeepoo\\employeepoo\\enumerators\\employeetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D972FDA-F50B-4BD0-8E5A-851FCF59C41A}|EmployeePOO\\EmployeePOO.csproj|solutionrelative:employeepoo\\enumerators\\employeetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -50,24 +50,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IExample.cs",
               "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Interfaces\\IExample.cs",
               "RelativeDocumentMoniker": "EmployeePOO\\Interfaces\\IExample.cs",
               "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Interfaces\\IExample.cs",
               "RelativeToolTip": "EmployeePOO\\Interfaces\\IExample.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA1AAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:15:26.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T19:15:26.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EmployeeValidator.cs",
               "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Validator\\EmployeeValidator.cs",
               "RelativeDocumentMoniker": "EmployeePOO\\Validator\\EmployeeValidator.cs",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "EmployeePOO\\Validator\\EmployeeValidator.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAADwvwsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T18:55:53.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T18:55:53.316Z"
             },
             {
               "$type": "Document",
@@ -86,14 +84,14 @@
               "RelativeDocumentMoniker": "EmployeePOO.Test\\EmployeeCRUDTest.cs",
               "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO.Test\\EmployeeCRUDTest.cs",
               "RelativeToolTip": "EmployeePOO.Test\\EmployeeCRUDTest.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowB4AAAAXAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAnwEMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T18:43:43.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO.Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "EmployeePOO.Test\\UnitTest1.cs",
@@ -101,12 +99,11 @@
               "RelativeToolTip": "EmployeePOO.Test\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T18:40:03.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T18:40:03.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EmployeeOverride.cs",
               "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\EmployeeOverride.cs",
               "RelativeDocumentMoniker": "EmployeePOO\\EmployeeOverride.cs",
@@ -114,18 +111,17 @@
               "RelativeToolTip": "EmployeePOO\\EmployeeOverride.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T18:11:46.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T18:11:46.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EmployeeCRUD.cs",
               "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Implementation\\EmployeeCRUD.cs",
               "RelativeDocumentMoniker": "EmployeePOO\\Implementation\\EmployeeCRUD.cs",
               "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Implementation\\EmployeeCRUD.cs",
               "RelativeToolTip": "EmployeePOO\\Implementation\\EmployeeCRUD.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAADwvx0AAAAAAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAEwDcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T17:39:48.159Z",
               "EditorCaption": ""
@@ -140,38 +136,35 @@
               "RelativeToolTip": "EmployeePOO\\Enumerators\\EmployeeTypes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T17:37:42.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T17:37:42.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "IEmployee.cs",
               "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Interfaces\\IEmployee.cs",
               "RelativeDocumentMoniker": "EmployeePOO\\Interfaces\\IEmployee.cs",
               "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Interfaces\\IEmployee.cs",
               "RelativeToolTip": "EmployeePOO\\Interfaces\\IEmployee.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T17:35:10.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T17:35:10.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "EmployeePOO\\Entities\\Employee.cs",
               "ToolTip": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Entities\\Employee.cs",
               "RelativeToolTip": "EmployeePOO\\Entities\\Employee.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T17:34:03.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T17:34:03.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sarellano\\source\\repos\\EmployeePOO\\EmployeePOO\\Program.cs",
               "RelativeDocumentMoniker": "EmployeePOO\\Program.cs",
@@ -179,8 +172,7 @@
               "RelativeToolTip": "EmployeePOO\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAewBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T17:32:49.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T17:32:49.31Z"
             }
           ]
         }

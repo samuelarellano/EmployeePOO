@@ -14,6 +14,6 @@ namespace EmployeePOO.Interfaces
         bool UpdateEmployee(Employee employee);
         bool DeleteEmployee(Employee employee);
         List<Employee> GetAllEmployees();
-        Employee GetEmployee(int id);
+        Employee GetEmployee(int id, List<Employee> listEmployees);
     }
 }

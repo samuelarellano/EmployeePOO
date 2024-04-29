@@ -12,3 +12,4 @@ C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\refint\
 C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\EmployeePOO.pdb
 C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\EmployeePOO.genruntimeconfig.cache
 C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\ref\EmployeePOO.dll
+C:\Users\sarellano\source\repos\EmployeePOO\EmployeePOO\obj\Debug\net8.0\EmployeePOO.sourcelink.json

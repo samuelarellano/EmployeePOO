@@ -24,7 +24,7 @@ namespace EmployeePOO.Interfaces
             throw new NotImplementedException();
         }
 
-        public Employee GetEmployee(int id)
+        public Employee GetEmployee(int id, List<Employee> listEmployees)
         {
             throw new NotImplementedException();
         }

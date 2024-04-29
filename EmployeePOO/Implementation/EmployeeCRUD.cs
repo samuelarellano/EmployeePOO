@@ -1,5 +1,7 @@
 ﻿using EmployeePOO.Entities;
+using EmployeePOO.Exceptions;
 using EmployeePOO.Interfaces;
+using EmployeePOO.Messages;
 using EmployeePOO.Validator;
 using System;
 using System.Collections.Generic;
@@ -25,7 +27,7 @@ namespace EmployeePOO.Implementation
             }
             else
             {
-                return isValid;
+                throw new EmployeeAddException(MessagesApplication.ErrorAddEmployee);
             }
         }
         
@@ -39,9 +41,15 @@ namespace EmployeePOO.Implementation
             throw new NotImplementedException();
         }
 
-        public Employee GetEmployee(int id)
+        public Employee GetEmployee(int id, List<Employee> employees)
         {
-            throw new NotImplementedException();
+           //Forma 1
+           var employee = employees.Find(x => x.Id == id);
+
+            return employee == null ? throw new EmployeeNotFoundException(MessagesApplication.EmployeeNotFound) : employee;
+
+            //Forma 2
+            //var employee = employees.Find(x => x.Id.Equals(id));
         }
 
         public bool UpdateEmployee(Employee employee)
